@@ -34,4 +34,4 @@ A projekt kiváló alapot nyújt a jövőbeli optimalizációhoz. A teljesítmé
 * **Alternatív Architektúrák:** A MobileNetV2 kiváló egyensúlyt ad a sebesség és pontosság között, de számításigényesebb backbone-ok (pl. ResNet50, EfficientNet) használata magasabb pontosságot eredményezhet.
 
 ## Használat / Futtatás
-A projekthez tartozó kód és a teljes elemzés megtalálható a `facial_recognition.ipynb` fájlban. A futtatáshoz szükséges képfájlok a mellékelt `.zip` mappában találhatóak személyekre rendszerezve. A .ipynb file letöltésével a futtatott cellák eredményei megtekinthetőek. A saját vizuális teszteléshez szükséges futtatni az összes addigi cellát sorrendben.
+A projekthez tartozó kód és a teljes elemzés megtalálható a `facial_recognition.ipynb` fájlban. A futtatáshoz szükséges képfájlok a leírás elején található linken letölthető .zip fájlként, amelyben személyenként rendszerezve megtalálhatóak a képfájlok. A .ipynb file letöltésével a futtatott cellák eredményei megtekinthetőek. A saját vizuális teszteléshez szükséges futtatni az összes addigi cellát sorrendben.
